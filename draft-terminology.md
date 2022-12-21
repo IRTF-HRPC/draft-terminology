@@ -202,6 +202,8 @@ informative:
 
 This document argues for more inclusive language conventions sometimes used by RFC authors and the RFC Production Centre in Internet-Drafts that are work in progress, and in new RFCs that may be published in any of the RFC series, in order to foster greater knowledge transfer and improve diversity of participation in the IETF.
 
+It is important to note that this is not standard, it does not represent IETF consensus, and should not be misconstrued as anything other than the authors' views. 
+
 --- middle
 
 # Introduction
