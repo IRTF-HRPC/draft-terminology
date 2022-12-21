@@ -197,6 +197,20 @@ informative:
       author:
          - org: IETF
       target: https://github.com/ietf/terminology
+      
+   Statement:
+      title: IESG Statement on on Inclusive Language
+      date: may 2021
+      author:
+         - org: IESG
+      target: https://www.ietf.org/about/groups/iesg/statements/on-inclusive-language/
+
+   in-solidarity-bot:
+      title: "Inclusive terminology in IETF Documents"
+      date: August 2020
+      author:
+         - org: IETF
+      target: https://github.com/ietf/terminology
 
 --- abstract
 
@@ -294,6 +308,10 @@ During the publication process, publishers (such as the RFC Editor) are advised 
   * Offer alternatives for exclusionary terminology as an important act of correcting larger editorial issues and clarifying technical concepts and
   * Maintain the IETF repository that collects all terms that have been considered and indicate whether they are deemed acceptable, and if not what terms Authors should consider instead.
   * Suggest to Authors that even when referencing other specifications that have not replaced offensive terminology, the Authors could use another term in their document and include a note to say that they have used the new term as a replacement for the term used in the referenced document.
+
+# Epilogue
+
+This document built a compendium of scholarship, activist campaigns, and the will of technologists who had pointed out general and specific issues with technical terms. This sparked a significant discussion in the IETF. Concretely the document’s writing resulted in a statement by the IESG {{Statement}} on on Inclusive Language and its mainstreaming with the {{in-solidarity-bot}}. The authors chose to seek publication of this document as a historical marker of that discussion. 
 
 # Further reading
 
