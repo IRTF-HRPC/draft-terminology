@@ -290,7 +290,7 @@ Authors can consider to:
   * Consider changing existing exclusionary language in current (reference) implementations {{socketwench}}.
   * Consult the RFC style sheet maintained by the RFC editor and the community that can be found at https://github.com/ietf/terminology .
 
-RFC Editor can consider to:
+During the publication process, publishers (such as the RFC Editor) are advised to:
   * Offer alternatives for exclusionary terminology as an important act of correcting larger editorial issues and clarifying technical concepts and
   * Maintain the IETF repository that collects all terms that have been considered and indicate whether they are deemed acceptable, and if not what terms Authors should consider instead.
   * Suggest to Authors that even when referencing other specifications that have not replaced offensive terminology, the Authors could use another term in their document and include a note to say that they have used the new term as a replacement for the term used in the referenced document.
