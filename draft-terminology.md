@@ -283,17 +283,17 @@ It is there that we welcome additional examples of terminology that might be avo
 
 To summarise, we have bulleted some very concrete action points that can be taken by Editors, reviewers and Authors, both present and future as they develop and publish Internet-Drafts and new RFCs.
 
-Authors SHOULD:
- * Replace the exclusionary terms "master-slave" and "blacklist-whitelist" with more accurate alternatives.
- * Read and reflect upon the repository of exclusionary terminology {{inclusiveterminology}}.
- * Reflect on their use of metaphors generally.
- * Consider changing existing exclusionary language in current (reference) implementations {{socketwench}}.
- * Consult the RFC style sheet maintained by the RFC editor and the community that can be found at https://github.com/ietf/terminology .
+Authors can consider to:
+  * Replace the exclusionary terms "master-slave" and "blacklist-whitelist" with more accurate alternatives.
+  * Read and reflect upon the repository of exclusionary terminology {{inclusiveterminology}}.
+  * Reflect on their use of metaphors generally.
+  * Consider changing existing exclusionary language in current (reference) implementations {{socketwench}}.
+  * Consult the RFC style sheet maintained by the RFC editor and the community that can be found at https://github.com/ietf/terminology .
 
-RFC Editor MUST:
- * Offer alternatives for exclusionary terminology as an important act of correcting larger editorial issues and clarifying technical concepts and
- * Maintain the IETF repository that collects all terms that have been considered and indicate whether they are deemed acceptable, and if not what terms Authors should consider instead.
- * Suggest to Authors that even when referencing other specifications that have not replaced offensive terminology, the Authors could use another term in their document and include a note to say that they have used the new term as a replacement for the term used in the referenced document.
+RFC Editor can consider to:
+  * Offer alternatives for exclusionary terminology as an important act of correcting larger editorial issues and clarifying technical concepts and
+  * Maintain the IETF repository that collects all terms that have been considered and indicate whether they are deemed acceptable, and if not what terms Authors should consider instead.
+  * Suggest to Authors that even when referencing other specifications that have not replaced offensive terminology, the Authors could use another term in their document and include a note to say that they have used the new term as a replacement for the term used in the referenced document.
 
 # Further reading
 
