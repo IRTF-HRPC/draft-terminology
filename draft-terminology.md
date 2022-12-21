@@ -289,7 +289,7 @@ Besides race and gender, our world is full of metaphors rooted in oppression, ab
 
 While it is not our intention to be exhaustive we hope to have made a persuasive case for authors and editors to pay attention to the finer details of metaphor, and the ways power is replicated in technical documentation unless detailed attention is paid. The example terms above "master-slave" and "blacklist-whitelist" are already less common. If the IETF community has learned anything from the debate over the use of these terms, and this document, it is that language matters to us deeply as members of society and as engineers. And because language, and society, change over time, we must approach future concerns with some degree of dispassion when the arguments presented in the first section can be clearly applied.
 
-There is harm in protracted discussion about the validity IETF participants and their experiences with exclusionary terminology. The racism in the community that has been surfaced as a result of this larger debate among technologists pushed away participants and observers. This illustrates the need to, as Graves is cited above as saying, continue to raise awareness within our community for eventual, lasting change on the continued front of struggle against the racists amongst us. Yet we recommend a living stylesheet, rather than repeated RFCs, be used as a mechanism for monitoring exclusionary language in IETF documents {{inclusiveterminology}}.
+There is harm in protracted discussion that weighs the validity IETF participants' experiences with exclusionary terminology. The IETF's own discussions surfaced expressions and defense of racist views that pushed away participants and observers. This illustrates the need to, as Graves is cited above as saying, continue to raise awareness within our community for eventual, lasting change on the continued front of struggle against the racists amongst us. Yet we recommend a living stylesheet, rather than repeated RFCs, be used as a mechanism for monitoring exclusionary language in IETF documents {{inclusiveterminology}}.
 
 It is there that we welcome additional examples of terminology that might be avoided through more awareness and thoughtfulness.
 
@@ -311,7 +311,7 @@ During the publication process, publishers (such as the RFC Editor) are advised 
 
 # Epilogue
 
-This document built a compendium of scholarship, activist campaigns, and the will of technologists who had pointed out general and specific issues with technical terms. This sparked a significant discussion in the IETF. Concretely the document’s writing resulted in a statement by the IESG {{Statement}} on on Inclusive Language and its mainstreaming with the {{in-solidarity-bot}}. The authors chose to seek publication of this document as a historical marker of that discussion. 
+This document built a compendium of scholarship, activist campaigns, and the will of technologists who had pointed out general and specific issues with technical terms. This sparked a significant discussion in the IETF. Concretely the document’s writing resulted in a statement by the IESG {{Statement}} on on Inclusive Language and its mainstreaming with the {{in-solidarity-bot}}. The authors chose to seek publication of this document as a historical marker of that discussion and as a contribution to social and restorative justice. 
 
 # Further reading
 
