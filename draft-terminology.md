@@ -230,7 +230,7 @@ This document presents arguments for why exclusionary terms should be avoided in
 
 # Terminology and Power in Internet-Drafts and RFCs
 
-According to the work of scholar Heather Brodie Graves from 1993, "one goal of the application of rhetorical theory in the technical communication classroom is to assess the appropriateness of particular terms and to evaluate whether these terms will facilitate or hinder the readers’ understanding of the technical material" {{BrodieGravesGraves}}. This implies that in order to effectively communicate the content of I-Ds and RFCs to all readers, it is important for Authors to consider the kinds of terms or language conventions that may inadvertently get in the way of effective communication. She continues, "complex and subtle configurations of sexist, racist, or ethnocentric language use in technical documents can derail or interfere with readers’ ability and desire to comprehend and follow important information."
+According to the work of scholar Heather Brodie Graves from 1993, "one goal of the application of rhetorical theory in the technical communication classroom is to assess the appropriateness of particular terms and to evaluate whether these terms will facilitate or hinder the readers’ understanding of the technical material" {{BrodieGravesGraves}}. This implies that in order to effectively communicate the content of I-Ds and RFCs to all readers, it is important for authors to consider the kinds of terms or language conventions that may inadvertently get in the way of effective communication. She continues, "complex and subtle configurations of sexist, racist, or ethnocentric language use in technical documents can derail or interfere with readers’ ability and desire to comprehend and follow important information."
 
 Indeed, problems of language are problems of everyday speech. Racist and sexist language is rampant and similarly counter-productive in other sectors, notably social work {{Burgest}}. The terms "master-slave," treated in detail below are present in other realms of technology, notably "automotive clutch and brake systems, clocks, flip-flop circuits, computer drives, and radio transmitters" {{Eglash}}.
 
@@ -274,16 +274,16 @@ As with master-slave, we save our technical argument for last, referencing and p
 
 There are alternatives to this terminology set that vastly improve clarity because they are not even metaphors, they're descriptions. The alternatives proposed here say exactly what they mean.
 
- * Accept-list and Drop-list for threat signaling. See for example {{RFC8612}}, {{RFC8782}}, and {{RFC8783}}).
+ * Accept-list and drop-list for threat signaling. See for example {{RFC8612}}, {{RFC8782}}, and {{RFC8783}}).
  * Blocklist-allowlist, deny-allow, exempt-allowlist or block-permit for permissions.
 
 ## Other Considerations
 
 As described in the preceding sections, the language used in technical documentation, like all written text, creates and reinforces expectations and stereotypes. We propose nothing more than additional care in the choice of language just as care is taken in defining standards and protocols themselves. The two examples provided above are not the only cases of exclusionary language to be avoided, and many more can be collected. We use this section to broaden the context of other offensive and exclusionary terminologies to encompass additional concerns, why spotting and eradicating problematic terminologies is a valid endeavour for authors and editors of technical documentation and how this might be systematised.
 
-There are many other metaphors present in technical documentation that are "terms of art" but that have no technical basis whatsoever. If any of these metaphors is offensive there is no excuse for its continued use. A term like "man-in-the-middle" is not technically useful. It is not a standard term, not as clear as its alternative "on-path attacker", and should therefore be avoided. When presented with the opportunity to employ the use of metaphors or to unthinkingly repeat terms of art that connote gender or race, Authors should simply find a better way to explain themselves. A fun read on the politics of colloquial speech by George Orwell should dissuade any clever Author from using tired explanatory metaphors {{Orwell}}.
+There are many other metaphors present in technical documentation that are "terms of art" but that have no technical basis whatsoever. If any of these metaphors is offensive there is no excuse for its continued use. A term like "man-in-the-middle" is not technically useful. It is not a standard term, not as clear as its alternative "on-path attacker", and should therefore be avoided. When presented with the opportunity to employ the use of metaphors or to unthinkingly repeat terms of art that connote gender or race, authors should simply find a better way to explain themselves. A fun read on the politics of colloquial speech by George Orwell should dissuade any clever author from using tired explanatory metaphors {{Orwell}}.
 
-Gendered pronouns and sexism are common place but easy to spot and replace. Up until recently, strict English grammatists like Orwell decried the use of the neutral pronoun "they". Without a neutral singular pronoun, "he" is assumed as the default singular pronoun when the gender of the person is unknown or ambiguous. However, that has changed, and it is now widely accepted that "they" can be used as a neutral singular pronoun. Since it is unlikely that all implementers and infrastructure operators are of any particular gender, "he" should never be used to refer to a person in I-Ds and RFCs. An Author who uses male examples sets male-ness as a standard.
+Gendered pronouns and sexism are common place but easy to spot and replace. Up until recently, strict English grammatists like Orwell decried the use of the neutral pronoun "they". Without a neutral singular pronoun, "he" is assumed as the default singular pronoun when the gender of the person is unknown or ambiguous. However, that has changed, and it is now widely accepted that "they" can be used as a neutral singular pronoun. Since it is unlikely that all implementers and infrastructure operators are of any particular gender, "he" should never be used to refer to a person in I-Ds and RFCs. An author who uses male examples sets male-ness as a standard.
 
 Besides race and gender, our world is full of metaphors rooted in oppression, ableism, and colonialism. Militarised metaphors are also a pervasive problem in language, perhaps even more so in technical communities because of the historical and actual relationship between technology and war.
 
@@ -295,7 +295,7 @@ It is there that we welcome additional examples of terminology that might be avo
 
 # Summary of Recommendations
 
-To summarise, we have bulleted some very concrete action points that can be taken by Editors, reviewers and Authors, both present and future as they develop and publish Internet-Drafts and new RFCs.
+To summarise, we have bulleted some very concrete action points that can be taken by editors, reviewers and authors, both present and future as they develop and publish Internet-Drafts and new RFCs.
 
 Authors can consider to:
   * Replace the exclusionary terms "master-slave" and "blacklist-whitelist" with more accurate alternatives.
@@ -306,8 +306,8 @@ Authors can consider to:
 
 During the publication process, publishers (such as the RFC Editor) are advised to:
   * Offer alternatives for exclusionary terminology as an important act of correcting larger editorial issues and clarifying technical concepts and
-  * Maintain the IETF repository that collects all terms that have been considered and indicate whether they are deemed acceptable, and if not what terms Authors should consider instead.
-  * Suggest to Authors that even when referencing other specifications that have not replaced offensive terminology, the Authors could use another term in their document and include a note to say that they have used the new term as a replacement for the term used in the referenced document.
+  * Maintain the IETF repository that collects all terms that have been considered and indicate whether they are deemed acceptable, and if not what terms authors should consider instead.
+  * Suggest to authors that even when referencing other specifications that have not replaced offensive terminology, the authors could use another term in their document and include a note to say that they have used the new term as a replacement for the term used in the referenced document.
 
 # Epilogue
 
