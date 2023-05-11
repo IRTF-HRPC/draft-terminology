@@ -295,7 +295,7 @@ It is there that we welcome additional examples of terminology that might be avo
 
 # Summary of Recommendations
 
-To summarise, we have bulleted some very concrete action points that can be taken by editors, reviewers and authors, both present and future as they develop and publish Internet-Drafts and new RFCs.
+To summarise, we have outlined some very concrete action points that can be taken by editors, reviewers and authors, both present and future as they develop and publish Internet-Drafts and new RFCs.
 
 Authors can consider to:
   * Replace the exclusionary terms "master-slave" and "blacklist-whitelist" with more accurate alternatives.
