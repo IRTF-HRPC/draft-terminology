@@ -1,7 +1,7 @@
 ---
 title: Terminology, Power, and Inclusive Language in Internet-Drafts and RFCs
 abbrev: Terminology
-docname: draft-knodel-terminology-11
+docname: draft-knodel-terminology-latest
 date: 2021-02-22
 category: info
 
