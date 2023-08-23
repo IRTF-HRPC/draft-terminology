@@ -214,7 +214,7 @@ informative:
 
 --- abstract
 
-This document argues for more inclusive language conventions sometimes used by RFC authors and the RFC Production Centre in Internet-Drafts that are work in progress, and in new RFCs that may be published in any of the RFC series, in order to foster greater knowledge transfer and improve diversity of participation in the IETF.
+There has been extensive discussion in and around the IETF community about the use of technical terminology, which could be interprereted as exclusionary. The document below is published as an artefact of the discussion because it sparked many debates and inspired several actions in the IETF community. This, however, does not say anything about whether the opinions it holds are correct or incorrect. Since the debate about technology, language, and its implications will probably never be finished, we offer this document for reference in future discussions about the topic. 
 
 It is important to note that this is not standard, it does not represent IETF consensus, and should not be misconstrued as anything other than the authors' views. 
 
