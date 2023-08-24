@@ -1,8 +1,8 @@
 ---
 title: Terminology, Power, and Inclusive Language in Internet-Drafts and RFCs
 abbrev: Terminology
-docname: draft-knodel-terminology-11
-date: 2021-02-22
+docname: draft-knodel-terminology-latest
+date: 2023-08-24
 category: info
 
 ipr: trust200902
@@ -214,7 +214,7 @@ informative:
 
 --- abstract
 
-This document argues for more inclusive language conventions sometimes used by RFC authors and the RFC Production Centre in Internet-Drafts that are work in progress, and in new RFCs that may be published in any of the RFC series, in order to foster greater knowledge transfer and improve diversity of participation in the IETF.
+There has been extensive discussion in and around the IETF community about the use of technical terminology, which could be interprereted as exclusionary. The document below is published as an artefact of the discussion because it sparked many debates and inspired several actions in the IETF community. This, however, does not say anything about whether the opinions it holds are correct or incorrect. Since the debate about technology, language, and its implications will probably never be finished, we offer this document for reference in future discussions about the topic. 
 
 It is important to note that this is not standard, it does not represent IETF consensus, and should not be misconstrued as anything other than the authors' views. 
 
@@ -268,7 +268,7 @@ The metaphorical use of white-black to connote good-evil is exclusive. While mas
 
 Indeed, there is an entire book on the subject, written by renowned authority on race, Frantz Fanon. In his book "Black Skin, White Masks," Fanon makes several persuasive arguments that standard language encodes subconscious in-group, out-group preferences {{Fanon}}.
 
-In the case of blacklist-whitelist in the technical documentation of I-Ds and RFCs, it is entirely a term of art and an arbitrary metaphorical construct with no technical merit. There are scientific uses of black that are related to light-- black holes are black because light cannot escape them. Blacklist-whitelist is not a metaphor for lightness or darkness, it is a good-evil metaphor and therefore this trope has significant impact on how people are seen and treated. As we've seen with metaphors, its use is pervasive and, though not necessarily conscious, perceptions do get promulgated through culture and repetition.
+In the case of blacklist-whitelist in the technical documentation of I-Ds and RFCs, it is entirely a term of art and an arbitrary metaphorical construct with no technical merit. There are scientific uses of black that are related to light-- black holes are black because light cannot escape them. The "dark web" is not counter-related to light; it is a metaphor for evil. Blacklist-whitelist is not a metaphor for lightness or darkness, it is a good-evil metaphor and therefore this trope has significant impact on how people are seen and treated. As we've seen with metaphors, its use is pervasive and, though not necessarily conscious, perceptions get promulgated through culture and repetition.
 
 As with master-slave, we save our technical argument for last, referencing and presenting first the reasons for the use of non-offensive, alternative terminology for the sake of our humanity. Indeed, our technical argument is incredibly succinct: Why use a metaphor when a direct description is both succinct and clear? There can be absolutely no ambiguity if one uses the terms, as suggested below, allow-block rather than white-black.
 
@@ -295,7 +295,7 @@ It is there that we welcome additional examples of terminology that might be avo
 
 # Summary of Recommendations
 
-To summarise, we have bulleted some very concrete action points that can be taken by editors, reviewers and authors, both present and future as they develop and publish Internet-Drafts and new RFCs.
+To summarise, we have outlined some very concrete action points that can be taken by editors, reviewers and authors, both present and future as they develop and publish Internet-Drafts and new RFCs.
 
 Authors can consider to:
   * Replace the exclusionary terms "master-slave" and "blacklist-whitelist" with more accurate alternatives.
